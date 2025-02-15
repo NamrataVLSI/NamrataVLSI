@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Namrata Yadav!  
+🎓 Master's in Computer Engineering (2024-2026) | Specializing in VLSI  
+💡 Passionate about VLSI Design, Digital Design, and Verification  
 
-<!--
-**NamrataVLSI/NamrataVLSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Skills  
+✅ Digital Design | FSM | STA | AXI Protocol  
+✅ Verilog & RTL Design  
+✅ Python (VLSIGuru Training)  
+✅ Computer Architecture & RISC-V  
 
-Here are some ideas to get you started:
+## 🎯 Certifications & Training  
+📜 **NPTEL Digital Design with Verilog**  
+📜 **CMOS Digital VLSI Design Certification**  
+📜 **21 Days RTL Coding from QuickSilicon**  
+📜 **Python from VLSIGuru**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Work  
+🔹 **RISC-V & Computer Architecture Project**  
+🔹 Exploring ASIC & FPGA Design  
+
+## 📫 Connect with Me  
+📧 Email: [namratayadav.cal@gmail.com](mailto:namratayadav.cal@gmail.com)  
+📧 SDSU Email: [nyadav@sdsu.edu](mailto:nyadav@sdsu.edu)  
+💼 LinkedIn: [Your LinkedIn Profile](Your LinkedIn URL)  
