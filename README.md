@@ -13,12 +13,8 @@
 📜 **CMOS Digital VLSI Design Certification**  
 📜 **21 Days RTL Coding from QuickSilicon**  
 📜 **Python from VLSIGuru**  
-
-## 🚀 Current Work  
-🔹 **RISC-V & Computer Architecture Project**  
-🔹 Exploring ASIC & FPGA Design  
-
+ 
 ## 📫 Connect with Me  
 📧 Email: [namratayadav.cal@gmail.com](mailto:namratayadav.cal@gmail.com)  
 📧 SDSU Email: [nyadav@sdsu.edu](mailto:nyadav@sdsu.edu)  
-💼 LinkedIn: [Your LinkedIn Profile](Your LinkedIn URL)  
+💼 LinkedIn: [www.linkedin.com/in/namrata-yadav-3645b9243](Your LinkedIn URL)  
