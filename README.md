@@ -1,57 +1,80 @@
-# Hi, I'm Namrata Yadav! 👋
+# 👋 Hi, I'm Namrata Yadav!
+🚀 Passionate Analog Layout Engineer | CMOS Custom Layout | TSMC 90nm | Physical Verification Specialist
 
-🚀 **Passionate Analog Design & Layout Engineer | Digital Design | VLSI Enthusiast**
+I am a Master’s student in Computer Engineering at San Diego State University, specializing in **Analog VLSI and Layout Design**. My work is centered on **custom IC layout** using **Cadence Virtuoso** with **TSMC 90nm technology**, focusing on industry-grade analog circuits, deep submicron effects, and layout verification.
 
-I am a Master's student in **Computer Engineering** at **San Diego State University**, specializing in **Analog and Digital VLSI Design**. My expertise lies in **CMOS circuit design, custom layouts, and verification**, with a strong command over **Cadence Virtuoso, Assura (DRC, LVS, ERC), Verilog-based Digital Design, and Static Timing Analysis (STA)**. I am passionate about bridging the **analog and digital domains** to develop high-performance **IC solutions**.
+With experience in **DRC, LVS, ERC, and Antenna checks**, I strive to deliver clean, manufacturable, and reliable analog layouts for tape-out.
 
-## 🔧 Technical Skills
-- **Analog & Physical Design:** Cadence Virtuoso, Layout, Assura (DRC, LVS, ERC)
-- **Digital Design & Simulation:** Verilog, Xilinx Vivado, Icarus Verilog, GTKWave, MATLAB
-- **Verification & Physical Checks:** Design Rule Checking (DRC), Layout Versus Schematic (LVS), Electrical Rule Check (ERC)
-- **Programming & Tools:** Verilog, Python, Linux Terminal
-- **Operating Systems:** Linux, Windows
+---
+
+## 🧠 Core Skills & Tools
+
+### 🔧 Layout & Physical Design
+- **Tools**: Cadence Virtuoso, Assura, Calibre
+- **Processes**: TSMC 90nm CMOS
+- **Checks**: DRC, LVS, ERC, Antenna, Parasitic Extraction
+
+### 🧪 Analog IC Design
+- **Circuits**: OpAmp, Bandgap, LDO, Current Mirror, Level Shifter, Flash ADC, DAC
+- **Techniques**: Common-centroid, Interdigitation, Shielding, Floorplanning, Seal Ring
+
+### 🛠️ Other Tools & Languages
+- Linux/UNIX, Python, Verilog (basic), Shell scripting
+
+---
 
 ## 🎓 Education
-- **Master’s in Computer Engineering** *(2024 - 2026)* - *San Diego State University, CA, USA*
-  - Relevant Courses: Analog Electronics, Analog IC Design, CMOS, Neuromorphic Computing
-- **Bachelor’s of Technology in Computer Science and Technology** *(2019 - 2023)* - *JNTUH | CVR College of Engineering, Hyderabad*
-  - Relevant Courses: Digital Design, STA, FSM, Verilog, MATLAB
+
+**M.S. in Computer Engineering** (2024 – 2026)  
+San Diego State University, California, USA  
+*Courses*: Analog IC Design, CMOS Design, Layout Techniques, Physical Verification
+
+**B.Tech in Computer Science and Technology** (2019 – 2023)  
+CVR College of Engineering, Hyderabad (JNTUH)  
+*Focus Areas*: Digital Design, FSM, Verilog, STA
+
+---
 
 ## 💼 Experience
-### RTL and Verification Trainee | **VLSI FOR ALL Pvt Ltd.** *(Aug 2023 - Dec 2023)*
-- Gained hands-on experience in **Verilog-based digital design**, coding, and circuit simulation.
-- Worked on **testbench creation** and **design optimization techniques** in **Xilinx Vivado**.
 
-### Analog Layout Design Trainee | **Takshila Institute of VLSI Technologies** *(Aug 2022 - June 2023)*
-- Designed **standard cells, analog blocks, and power management circuits**.
-- Experience with **latch-up, antenna effect, IR drop**, and **Assura verification (DRC, LVS, ERC)**.
+### 🔷 Analog Layout Design Trainee  
+**Takshila Institute of VLSI Technologies** (Aug 2022 – June 2023)  
+- Created layouts for **standard cells, OpAmps, LDOs, Bandgap References, Level Shifters**
+- Focused on layout symmetry, matching, and routing best practices
+- Performed **full physical verification** including DRC, LVS, ERC, and antenna checks
 
-## 📂 Featured Projects
-### 🟢 **Neural Network-Based Video Processing System for Color Detection** *(Sep 2024 – Nov 2024)*
-- Designed a **video processing system** for **RGB color detection** using **neural networks**.
-- Implemented **Adder, Multiplier, and Color Mapping** in **Cadence Virtuoso** with **DRC/LVS verification**.
+### 🔷 RTL and Verification Trainee  
+**VLSI FOR ALL Pvt Ltd.** (Aug 2023 – Dec 2023)  
+- Basic RTL design in Verilog (pre-layout phase)
+- Gained appreciation of the **digital-to-analog interface** in mixed-signal designs
 
+---
 
-### 🟢 **Analog Layout Designs (TSMC 90nm)** *(Sep 2024 – Nov 2024)*
-- Designed **Inverter, NAND, NOR, AND, OR, XOR, D Flip-Flop, Level Shifter, Op-Amp, LDO, Bandgap**.
-- Performed **floor-planning, routing, LVS, DRC, and Antenna checks** using **Cadence Virtuoso Layout**.
+## 📂 Key Analog Layout Projects (TSMC 90nm)
 
+### ✅ Custom Layout Designs
+- **Inverter, NAND, NOR, XOR, D Flip-Flop**
+- **Level Shifter, Bandgap Reference, OpAmp, Current Mirror, LDO**
+- Used **common-centroid & interdigitation** layout techniques
 
-### 🟢 **Design of Traffic Signal Controller Using FSM (Verilog)** *(Sep 2024 – Nov 2024)*
-- Developed and simulated a **traffic signal controller** using **Finite State Machine (FSM) logic**.
-- Implemented and verified in **Xilinx Vivado** with **testbenches and timing analysis**.
+### ✅ Physical Verification
+- Verified with **DRC, LVS, ERC, Antenna Checks**
+- Performed **Parasitic Extraction** and **layout optimization for performance**
 
+---
 
-## 🌱 Currently Exploring
-- **Neuromorphic Computing & RISC-V Architecture**
-- **Machine Learning for VLSI Design**
-- **ASIC & FPGA-based Design**
+## 🌱 Exploring Further
+- Tape-out process and layout sign-off
+- Advanced matching and shielding strategies
+- Memory & I/O Layout Design Techniques
 
-## 📫 Connect with Me
-- **Email:** namratayadav.097@gmail.com
-- **LinkedIn:** [Namrata Yadav](https://www.linkedin.com/in/namrata-yadav-3645b9243/)
-- **GitHub:** [NamrataVLSI](https://github.com/NamrataVLSI)
+---
 
-🚀 *I am open to collaboration and discussions in Analog & Digital VLSI Design, RTL Verification, and Semiconductor Design!*
+## 📫 Connect With Me
+📧 Email: namratayadav.097@gmail.com  
+🔗 LinkedIn: [Namrata Yadav](https://www.linkedin.com/in/namratayadav)  
+💻 GitHub: [NamrataVLSI](https://github.com/NamrataVLSI)
 
+---
 
+🚀 I’m open to collaborations and internships in Analog Layout, Physical Verification, and Custom IC Design!
