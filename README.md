@@ -1,80 +1,58 @@
-# 👋 Hi, I'm Namrata Yadav!
-🚀 Passionate Analog Layout Engineer | CMOS Custom Layout | TSMC 90nm | Physical Verification Specialist
+👋 Hi, I’m Namrata Yadav
 
-I am a Master’s student in Computer Engineering at San Diego State University, specializing in **Analog VLSI and Layout Design**. My work is centered on **custom IC layout** using **Cadence Virtuoso** with **TSMC 90nm technology**, focusing on industry-grade analog circuits, deep submicron effects, and layout verification.
+🎓 Master’s in Computer Engineering @ San Diego State University
+🔬 Specializing in Analog & Mixed-Signal Layout | Custom IC Design | Neuromorphic Circuits
+💻 Passionate about bridging semiconductor physics with practical IC design
 
-With experience in **DRC, LVS, ERC, and Antenna checks**, I strive to deliver clean, manufacturable, and reliable analog layouts for tape-out.
+🛠️ Skills & Tools
 
----
+EDA Tools: Cadence Virtuoso (schematic, simulation, layout), Spectre, Assura (LVS/DRC/ERC/PEX), MATLAB
 
-## 🧠 Core Skills & Tools
+Layout Techniques: Common-centroid matching, interdigitation, guard rings, shielding, floorplanning, power routing
 
-### 🔧 Layout & Physical Design
-- **Tools**: Cadence Virtuoso, Assura, Calibre
-- **Processes**: TSMC 90nm CMOS
-- **Checks**: DRC, LVS, ERC, Antenna, Parasitic Extraction
+Process/DFM Knowledge: LDE, WPE, process corners (TT/SS/FF), mismatch (systematic/random), EM, latch-up prevention, antenna effect mitigation
 
-### 🧪 Analog IC Design
-- **Circuits**: OpAmp, Bandgap, LDO, Current Mirror, Level Shifter, Flash ADC, DAC
-- **Techniques**: Common-centroid, Interdigitation, Shielding, Floorplanning, Seal Ring
+Technologies: CMOS (90nm, 350nm), FinFET (80nm), SRAM, neuromorphic circuits
 
-### 🛠️ Other Tools & Languages
-- Linux/UNIX, Python, Verilog (basic), Shell scripting
+📂 Featured Projects
 
----
+🔹 Neuromorphic Circuits (Cadence, TSMC 350nm/90nm)
 
-## 🎓 Education
+Integrate-and-Fire neuron circuits, spiking neural networks, and current-squaring circuits
 
-**M.S. in Computer Engineering** (2024 – 2026)  
-San Diego State University, California, USA  
-*Courses*: Analog IC Design, CMOS Design, Layout Techniques, Physical Verification
+Device modeling with weak inversion analysis and Early voltage extraction
 
-**B.Tech in Computer Science and Technology** (2019 – 2023)  
-CVR College of Engineering, Hyderabad (JNTUH)  
-*Focus Areas*: Digital Design, FSM, Verilog, STA
+🔹 Analog/Mixed-Signal Blocks
 
----
+Layouts for current mirrors, comparators, folded cascode op-amps, bandgap reference, ADC/DAC (4-bit)
 
-## 💼 Experience
+Verified DRC/LVS clean designs with reliability improvements
 
-### 🔷 Analog Layout Design Trainee  
-**Takshila Institute of VLSI Technologies** (Aug 2022 – June 2023)  
-- Created layouts for **standard cells, OpAmps, LDOs, Bandgap References, Level Shifters**
-- Focused on layout symmetry, matching, and routing best practices
-- Performed **full physical verification** including DRC, LVS, ERC, and antenna checks
+🔹 VLSI System Design – Video Processing (Team Project)
 
-### 🔷 RTL and Verification Trainee  
-**VLSI FOR ALL Pvt Ltd.** (Aug 2023 – Dec 2023)  
-- Basic RTL design in Verilog (pre-layout phase)
-- Gained appreciation of the **digital-to-analog interface** in mixed-signal designs
+Designed functional blocks (Adder, Multiplier, ROM, Tri-state, Color Mapping)
 
----
+Completed floorplanning, area estimation, and post-layout simulations
 
-## 📂 Key Analog Layout Projects (TSMC 90nm)
+📈 Experience
 
-### ✅ Custom Layout Designs
-- **Inverter, NAND, NOR, XOR, D Flip-Flop**
-- **Level Shifter, Bandgap Reference, OpAmp, Current Mirror, LDO**
-- Used **common-centroid & interdigitation** layout techniques
+Analog Layout Intern @ VLSI For All
+Designed and implemented layouts for analog/mixed-signal blocks, SRAM sub-blocks, and an 80nm FinFET inverter.
 
-### ✅ Physical Verification
-- Verified with **DRC, LVS, ERC, Antenna Checks**
-- Performed **Parasitic Extraction** and **layout optimization for performance**
+Analog Layout Design Trainee @ Takshila Institute of VLSI Technologies
+Developed strong foundations in CMOS theory, layout verification, and UNIX/Linux automation for IC workflows.
 
----
+Graduate Teaching Associate @ SDSU Physics Department
+Mentoring undergraduates in circuits, electromagnetism, and optics.
 
-## 🌱 Exploring Further
-- Tape-out process and layout sign-off
-- Advanced matching and shielding strategies
-- Memory & I/O Layout Design Techniques
+📫 Connect with Me
 
----
+LinkedIn
 
-## 📫 Connect With Me
-📧 Email: namratayadav.097@gmail.com  
-🔗 LinkedIn: [Namrata Yadav](https://www.linkedin.com/in/namratayadav)  
-💻 GitHub: [NamrataVLSI](https://github.com/NamrataVLSI)
+GitHub
 
+📧 nyadav7674@sdsu.edu
+namratayadav.0297@gmail.com
 ---
 
 🚀 I’m open to collaborations and internships in Analog Layout, Physical Verification, and Custom IC Design!
