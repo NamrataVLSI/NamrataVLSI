@@ -1,26 +1,23 @@
 # Hi, I'm Namrata Yadav 👋
 
-🎓 **M.S. Computer Engineering (Analog/Mixed-Signal IC Design)**  
+**M.S. Computer Engineering (Analog & Mixed-Signal IC Design)**  
 San Diego State University
 
-📍 San Diego, California
-
-📧 **namratayadav.cal@gmail.com**
-
+📍 San Diego, California  
+📧 **namratayadav.cal@gmail.com**  
 💼 **LinkedIn:** https://linkedin.com/in/namrata-yadav-3645b9243
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I'm a graduate student specializing in **Analog and Mixed-Signal IC Design**, with hands-on experience designing full-custom layouts from transistor-level schematics through physical verification and post-layout validation.
+I'm a graduate student specializing in **Analog and Mixed-Signal IC Design**, passionate about designing high-performance integrated circuits from **transistor-level schematics through full-custom physical layout and post-layout validation**.
 
-My experience includes developing analog building blocks such as **bandgap references, LDOs, OTAs, comparators, SRAM cells, serializer/deserializer chains, PLLs, and SAR ADCs** using **Cadence Virtuoso** and **Synopsys Custom Compiler**.
+My experience spans the design and layout of analog and mixed-signal building blocks including **Bandgap References, LDOs, OTAs, Comparators, PLLs, SAR ADCs, SRAM, and Serializer/Deserializer circuits** using **Cadence Virtuoso** and **Synopsys Custom Compiler**.
 
-Beyond circuit implementation, I'm interested in understanding how device-level behavior impacts system performance. My recent work combines **hardware and software co-design**, where transistor-level CMOS neuron circuits are calibrated into Python-based Spiking Neural Network models to evaluate the effects of circuit non-idealities.
+I'm also interested in **hardware-software co-design**, where I bridge transistor-level CMOS implementations with Python-based Spiking Neural Network models to study how circuit non-idealities influence system-level performance.
 
-I'm currently looking for full-time opportunities in
-
+🎯 **Currently seeking full-time opportunities in:**
 - Analog IC Layout Engineering
 - Mixed-Signal IC Design
 - Custom Physical Design
@@ -28,27 +25,23 @@ I'm currently looking for full-time opportunities in
 
 ---
 
-# 🔧 Technical Expertise
+## 🔧 Technical Skills
 
-## Analog & Mixed-Signal Design
-
-- Operational Transconductance Amplifiers (OTA)
-- Bandgap Voltage References
-- Low Dropout Regulators (LDO)
-- Comparators
-- Differential Pairs
-- Current Mirrors
-- Level Shifters
-- Schmitt Triggers
-- Phase Locked Loops (PLL)
+### 🧩 Analog & Mixed-Signal Design
+- OTA
+- Bandgap Voltage Reference
+- LDO
+- Comparator
+- Differential Pair
+- Current Mirror
+- Level Shifter
+- Schmitt Trigger
+- PLL
 - SAR ADC
 - SRAM
 - Serializer / Deserializer
 
----
-
-## Physical Layout
-
+### 📐 Physical Layout
 - Full-Custom Layout
 - Device Matching
 - Common-Centroid Layout
@@ -61,10 +54,7 @@ I'm currently looking for full-time opportunities in
 - Floorplanning
 - Analog Routing
 
----
-
-## Verification & Signoff
-
+### ✅ Verification & Signoff
 - DRC
 - LVS
 - ERC
@@ -73,10 +63,7 @@ I'm currently looking for full-time opportunities in
 - Timing Analysis
 - Power Analysis
 
----
-
-## EDA Tools
-
+### 🛠️ EDA Tools
 - Cadence Virtuoso Studio
 - Virtuoso Layout XL
 - Spectre
@@ -88,116 +75,29 @@ I'm currently looking for full-time opportunities in
 - IC Validator
 - StarRC
 
----
-
-## Programming
-
+### 💻 Programming
 - Python
 - MATLAB
 - Verilog
+- LaTeX
 
 ---
 
 # 💡 Featured Projects
 
-## 🧠 CMOS Leaky Integrate-and-Fire Neuron
-
-Designed and simulated a CMOS neuron circuit in Cadence Virtuoso and calibrated it with a Python-based Spiking Neural Network.
-
-### Highlights
-
-- Designed transistor-level neuron circuitry
-- Extracted F-I characteristics
-- Built behavioral model in SpikingJelly
-- Evaluated MNIST inference accuracy
-- Studied the impact of circuit non-idealities on neural network performance
-
----
-
-## ⚡ Full-Custom Analog Building Block Library
-
-Designed and physically implemented a reusable library of analog circuits including
-
-- Bandgap Reference
-- LDO
-- OTA
-- Comparator
-- Differential Pair
-- Current Mirrors
-- Schmitt Trigger
-- Level Shifter
-- SRAM Bitcell
-- Serializer / Deserializer
-
-Completed the complete physical verification flow
-
-✔ DRC
-
-✔ LVS
-
-✔ ERC
-
-✔ Post-Layout Validation
-
----
-
-## 📡 Mixed-Signal Systems
-
-Designed complete layouts for
-
-- Phase Locked Loop (PLL)
-- 8-bit SAR ADC
-
-Performed
-
-- Device Matching
-- Floorplanning
-- Routing
-- DRC
-- LVS
-- PEX
-- Post-layout verification
-
----
-
-## 🖥️ Standard Cell Library
-
-Implemented an 11-track transistor-level standard cell library using Synopsys Custom Compiler.
-
-Included
-
-- Logic Gates
-- Flip-Flops
-- Multiplexers
-- Counters
-- Sequential Cells
-
-Completed
-
-- DRC
-- LVS
-- StarRC
-- PrimeSim
-
----
-
-## 📈 MOSFET Device Characterization
-
-Studied transistor behavior using Cadence Spectre and MATLAB.
-
-Characterized
-
-- Early Voltage
-- Channel-Length Modulation
-- Subthreshold Slope
-- Weak Inversion
-- Strong Inversion
+| Project | Technologies | Highlights |
+|---------|--------------|------------|
+| 🧠 **CMOS Leaky Integrate-and-Fire Neuron** | Cadence Virtuoso • Python • SpikingJelly | Designed a transistor-level CMOS neuron, extracted F-I characteristics, calibrated a behavioral model, evaluated MNIST inference, and analyzed circuit non-idealities. |
+| ⚡ **Analog Building Block Library** | Cadence Virtuoso | Designed and laid out Bandgap Reference, OTA, LDO, Comparator, SRAM, Serializer/Deserializer, Differential Pair, Current Mirrors, Schmitt Trigger, and Level Shifter. Completed DRC, LVS, ERC, and post-layout validation. |
+| 📡 **Mixed-Signal Systems** | Cadence Virtuoso | Implemented complete layouts for a PLL and 8-bit SAR ADC, including floorplanning, device matching, routing, DRC, LVS, PEX, and post-layout verification. |
+| 🖥️ **11-Track Standard Cell Library** | Synopsys Custom Compiler | Developed a standard-cell library including logic gates, multiplexers, flip-flops, counters, and sequential cells with DRC, LVS, StarRC, and PrimeSim verification. |
+| 📈 **MOSFET Device Characterization** | Cadence Spectre • MATLAB | Characterized transistor behavior including Early Voltage, Channel-Length Modulation, Subthreshold Slope, and weak/strong inversion regions. |
 
 ---
 
 # ⚙️ My Design Flow
 
-```
+```text
 Specification
       │
       ▼
@@ -227,9 +127,7 @@ Performance Validation
 
 ---
 
-# 📚 Currently Learning
-
-I'm currently expanding my experience in
+## 📚 Currently Learning
 
 - Advanced Analog Layout Techniques
 - RF IC Design
@@ -240,11 +138,11 @@ I'm currently expanding my experience in
 
 ---
 
-# 🌱 What You'll Find Here
+## 🌱 What You'll Find Here
 
-This GitHub is where I document my learning and engineering projects.
+This GitHub showcases my work in **Analog and Mixed-Signal IC Design**, documenting the complete engineering workflow from **circuit design to physical implementation and verification**.
 
-Repositories include
+Repositories include:
 
 - Analog Building Blocks
 - Mixed-Signal Systems
@@ -255,20 +153,18 @@ Repositories include
 - MATLAB Analysis
 - Technical Reports
 
-Each project focuses on the complete engineering process—from design and layout to verification, simulation, and analysis.
+Each project emphasizes practical engineering with complete design, layout, verification, simulation, and performance analysis.
 
 ---
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 
-📧 Email
-
+📧 **Email:**  
 **namratayadav.cal@gmail.com**
 
-💼 LinkedIn
-
+💼 **LinkedIn:**  
 https://linkedin.com/in/namrata-yadav-3645b9243
 
 ---
 
-> *"Great layouts aren't just DRC clean—they reflect thoughtful engineering, careful matching, and a deep understanding of the devices beneath them."*
+> *"Great layouts aren't just DRC-clean—they reflect thoughtful engineering, precise matching, and a deep understanding of the devices beneath them."*
