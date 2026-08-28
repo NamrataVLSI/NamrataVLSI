@@ -1,170 +1,104 @@
-# Hi, I'm Namrata Yadav 👋
+# Namrata Yadav
 
-**M.S. Computer Engineering (Analog & Mixed-Signal IC Design)**  
-San Diego State University
+**M.S. Computer Engineering — Analog & Mixed-Signal IC Design**
+San Diego State University · San Diego, California
 
-📍 San Diego, California  
-📧 **namratayadav.cal@gmail.com**  
-💼 **LinkedIn:** https://linkedin.com/in/namrata-yadav-3645b9243
+### 🔗 Portfolio → **[namratavlsi.github.io](https://namratavlsi.github.io)**
 
----
-
-## 🚀 About Me
-
-I'm a graduate student specializing in **Analog and Mixed-Signal IC Design**, passionate about designing high-performance integrated circuits from **transistor-level schematics through full-custom physical layout and post-layout validation**.
-
-My experience spans the design and layout of analog and mixed-signal building blocks including **Bandgap References, LDOs, OTAs, Comparators, PLLs, SAR ADCs, SRAM, and Serializer/Deserializer circuits** using **Cadence Virtuoso** and **Synopsys Custom Compiler**.
-
-I'm also interested in **hardware-software co-design**, where I bridge transistor-level CMOS implementations with Python-based Spiking Neural Network models to study how circuit non-idealities influence system-level performance.
-
-🎯 **Currently seeking full-time opportunities in:**
-- Analog IC Layout Engineering
-- Mixed-Signal IC Design
-- Custom Physical Design
-- AMS Layout Engineering
+📧 namratayadav.cal@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/namrata-yadav)
 
 ---
 
-## 🔧 Technical Skills
+## About
 
-### 🧩 Analog & Mixed-Signal Design
-- OTA
-- Bandgap Voltage Reference
-- LDO
-- Comparator
-- Differential Pair
-- Current Mirror
-- Level Shifter
-- Schmitt Trigger
-- PLL
-- SAR ADC
-- SRAM
-- Serializer / Deserializer
+I design transistor-level analog and mixed-signal CMOS circuits and take them through full-custom
+layout, physical verification, and post-layout characterization.
 
-### 📐 Physical Layout
-- Full-Custom Layout
-- Device Matching
-- Common-Centroid Layout
-- Interdigitated Structures
-- Euler Path Optimization
-- Diffusion Sharing
-- Cell Abutment
-- Guard Rings
-- Substrate Taps
-- Floorplanning
-- Analog Routing
+Much of my work is diagnostic — finding why a circuit deviates from expectation and tracing it back
+to sizing, parasitics, mismatch, process variation, layout-dependent effects, or connectivity.
 
-### ✅ Verification & Signoff
-- DRC
-- LVS
-- ERC
-- PEX
-- Post-Layout Simulation
-- Timing Analysis
-- Power Analysis
+I also work on hardware–software co-design, bridging transistor-level CMOS implementations with
+Python-based spiking neural network models to study how circuit non-idealities affect system-level
+performance.
 
-### 🛠️ EDA Tools
-- Cadence Virtuoso Studio
-- Virtuoso Layout XL
-- Spectre
-- ADE Explorer
-- ViVA
-- Cadence PVS
-- Synopsys Custom Compiler
-- PrimeSim
-- IC Validator
-- StarRC
+**Recent focus:** device reliability and aging analysis (NBTI, HCI) in Cadence ADE, and
+characterization across PVT corners and Monte Carlo mismatch.
 
-### 💻 Programming
-- Python
-- MATLAB
-- Verilog
-- LaTeX
+## Seeking full-time roles in
+
+Analog / mixed-signal IC layout · Custom physical design · Failure analysis · Device
+characterization and debug · Physical design
 
 ---
 
-# 💡 Featured Projects
+## Repositories
 
-| Project | Technologies | Highlights |
-|---------|--------------|------------|
-| 🧠 **CMOS Leaky Integrate-and-Fire Neuron** | Cadence Virtuoso • Python • SpikingJelly | Designed a transistor-level CMOS neuron, extracted F-I characteristics, calibrated a behavioral model, evaluated MNIST inference, and analyzed circuit non-idealities. |
-| ⚡ **Analog Building Block Library** | Cadence Virtuoso | Designed and laid out Bandgap Reference, OTA, LDO, Comparator, SRAM, Serializer/Deserializer, Differential Pair, Current Mirrors, Schmitt Trigger, and Level Shifter. Completed DRC, LVS, ERC, and post-layout validation. |
-| 📡 **Mixed-Signal Systems** | Cadence Virtuoso | Implemented complete layouts for a PLL and 8-bit SAR ADC, including floorplanning, device matching, routing, DRC, LVS, PEX, and post-layout verification. |
-| 🖥️ **11-Track Standard Cell Library** | Synopsys Custom Compiler | Developed a standard-cell library including logic gates, multiplexers, flip-flops, counters, and sequential cells with DRC, LVS, StarRC, and PrimeSim verification. |
-| 📈 **MOSFET Device Characterization** | Cadence Spectre • MATLAB | Characterized transistor behavior including Early Voltage, Channel-Length Modulation, Subthreshold Slope, and weak/strong inversion regions. |
+| Repository | What's in it | Tools |
+| --- | --- | --- |
+| **[Analog-IC-Design-and-Layout-](https://github.com/NamrataVLSI/Analog-IC-Design-and-Layout-)** | Ten analog CMOS blocks — bandgap reference, LDO, single-stage OTA, two-stage op-amp, comparator, current mirrors, differential pair, level shifter, Schmitt trigger, bias circuits. Each with a design report and a layout & verification report. | Cadence Virtuoso, Spectre, PVS, GPDK45 |
+| **[Mixed-Signal-Design](https://github.com/NamrataVLSI/Mixed-Signal-Design)** | Charge-pump PLL built block by block — PFD, charge pump, loop filter, VCO, divider, clock buffer, top-level integration — plus 8:1 serializer / 1:8 deserializer. SAR ADC and DAC planned. | Cadence Virtuoso, Spectre, GPDK45 |
+| **[Digital-Custom-IC](https://github.com/NamrataVLSI/Digital-Custom-IC)** | 11-track standard-cell library, transmission-gate logic, combinational and sequential circuits, counters, and a 6T SRAM bitcell and array. | Synopsys Custom Compiler, IC Validator, StarRC, SAED 28/32 nm |
+| **[Neuromorphic-and-System-Level](https://github.com/NamrataVLSI)** | CMOS leaky integrate-and-fire neuron: transistor-level design, F–I characterization, membrane time-constant extraction, and a circuit-calibrated SNN model evaluated on MNIST. | Cadence Virtuoso, Spectre, Python, SpikingJelly |
+| **[NamrataVLSI.github.io](https://github.com/NamrataVLSI/NamrataVLSI.github.io)** | Source for my portfolio site. | HTML, CSS |
 
 ---
 
-# ⚙️ My Design Flow
+## Technical skills
 
-```text
-Specification
-      │
-      ▼
-Circuit Design
-      │
-      ▼
-Schematic Simulation
-      │
-      ▼
-Physical Layout
-      │
-      ▼
-DRC
-      │
-      ▼
-LVS
-      │
-      ▼
-PEX
-      │
-      ▼
-Post-Layout Simulation
-      │
-      ▼
-Performance Validation
+**Analog & mixed-signal design**
+Transistor-level CMOS design · Device sizing · Biasing and operating point · Current mirrors ·
+Differential pairs · OTA · Two-stage op-amp · Comparator · Bandgap reference · LDO · Level shifter ·
+Schmitt trigger · PLL (PFD, charge pump, loop filter, VCO, divider) · Serializer / deserializer
+
+**Analysis & characterization**
+DC / transient / AC · Loop stability and phase margin · PSRR · PVT corners · Monte Carlo mismatch ·
+Temperature characterization · Reliability aging (MOSRA) · Device characterization — VTH, gm, ID,
+Early voltage, channel-length modulation, subthreshold slope, weak and strong inversion
+
+**Custom layout**
+Full-custom CMOS and FinFET layout · Hierarchical floorplanning · Common-centroid · Interdigitation ·
+Device matching · Dummy devices · Diffusion sharing · Guard rings · Substrate taps · Deep N-well
+isolation · Latch-up prevention · Layout-dependent effects (WPE, STI stress, poly spacing) ·
+Parasitic-aware routing · Power planning · EM / IR awareness · Metal density · Euler path
+optimization · Cell abutment · Pin-access planning
+
+**Verification & signoff**
+DRC · LVS · ERC · Antenna checks · PEX · Post-layout simulation · Pre-/post-layout correlation
+
+**Physical design**
+RTL-to-GDS · Synthesis · Floorplanning · Placement · CTS · Routing · STA · SDC · Setup/hold ·
+WNS/TNS · Timing closure · PPA analysis
+
+**Tools** — Cadence Virtuoso Studio, Layout XL, Spectre, ADE Explorer/Assembler/Maestro, ViVA, PVS ·
+Synopsys Custom Compiler, PrimeSim, IC Validator, StarRC, Design Compiler, IC Compiler II, PrimeTime,
+PrimeWave · SAED 28/32 nm, GPDK45, NCSU CDK
+
+**Programming** — Python · MATLAB · Verilog · TCL · Bash · UNIX/Linux · LaTeX
+
+---
+
+## My design flow
+
+```
+Specification → Circuit architecture → Transistor-level schematic → Device sizing & biasing
+      → Pre-layout simulation → Full-custom layout → DRC → LVS → ERC → PEX
+      → Post-layout simulation → PVT, Monte Carlo & aging analysis
 ```
 
 ---
 
-## 📚 Currently Learning
+## Currently working on
 
-- Advanced Analog Layout Techniques
-- RF IC Design
-- High-Speed Mixed-Signal Systems
-- Layout Automation
-- SKILL Programming
-- FinFET Technologies
+- Re-sizing and rebuilding the CMOS LIF neuron in GPDK45 (the first version used the NCSU 0.35 µm CDK)
+- Reliability and aging analysis flows in Cadence ADE
+- SAR ADC and DAC blocks for the mixed-signal repository
 
----
+## Currently learning
 
-## 🌱 What You'll Find Here
-
-This GitHub showcases my work in **Analog and Mixed-Signal IC Design**, documenting the complete engineering workflow from **circuit design to physical implementation and verification**.
-
-Repositories include:
-
-- Analog Building Blocks
-- Mixed-Signal Systems
-- CMOS Neuron Research
-- Standard Cell Design
-- Device Characterization
-- Python Automation
-- MATLAB Analysis
-- Technical Reports
-
-Each project emphasizes practical engineering with complete design, layout, verification, simulation, and performance analysis.
+Advanced analog layout techniques · SKILL scripting for layout automation · FinFET layout ·
+High-speed mixed-signal design
 
 ---
 
-## 📫 Let's Connect
-
-📧 **Email:**  
-**namratayadav.cal@gmail.com**
-
-💼 **LinkedIn:**  
-https://linkedin.com/in/namrata-yadav-3645b9243
-
----
-
-> *"Great layouts aren't just DRC-clean—they reflect thoughtful engineering, precise matching, and a deep understanding of the devices beneath them."*
+Every project here documents the full engineering workflow — design intent, simulation, layout
+methodology, verification results, and what the layout decisions cost the circuit.
